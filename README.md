@@ -1,6 +1,6 @@
 # Wohnung finden in Bern
 
-Wohnungssuche bei 0,44 % Leerstand: wo suchen (Genossenschaften, Stadt, Portale, Quartier), was in 10 Minuten im Dossier sein muss, und die Rechte, die seit 2025 neu sind: Formularpflicht (1. 12. 2025) und Anfechtung des Anfangsmietzinses innert 30 Tagen. DE/EN/SK, kein Tracking.
+Wohnungssuche bei 0,44 % Leerstand: wo suchen (Genossenschaften, Stadt, Portale, Quartier), was in 10 Minuten im Dossier sein muss, und die Rechte, die seit 2025 neu sind: Formularpflicht (1. 12. 2025) und Anfechtung des Anfangsmietzinses innert 30 Tagen. DE/EN, kein Tracking.
 
 Live: **https://richardcervenka111-create.github.io/wohnung-finden-bern/**
 
